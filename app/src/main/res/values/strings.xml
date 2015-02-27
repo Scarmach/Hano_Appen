@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hanö Appen</string>
+    <string name="hello_world">Välkommen till Hanö!</string>
+    <string name="action_settings">Settings</string>
+    <string name="go_to_map_btn_text">To the Map</string>
+    <string name="go_to_boat_time_btn_text">Boat time</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="show_markers_checkbox">Show Hanö sights</string>
+    <string name="show_paths_checkbox">Show paths</string>
+    <string name="fyren_information">Information about the lighthouse</string>
+
+
+</resources>
