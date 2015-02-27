@@ -77,7 +77,7 @@ public class MapActivity extends Activity implements OnMapReadyCallback{
         Marker missionshuset = map.addMarker(new MarkerOptions()
                 .title("Missionshuset")
                 .snippet("Information om missionshuset")
-                .position(HAMNEN)
+                .position(FYREN)
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_MAGENTA)));
 
         Marker museet = map.addMarker(new MarkerOptions()
